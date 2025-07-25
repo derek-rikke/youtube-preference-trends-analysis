@@ -1,0 +1,9 @@
+pandas
+numpy
+textblob
+emoji
+kagglehub
+
+# Optional, if needed
+# matplotlib
+# langdetect
